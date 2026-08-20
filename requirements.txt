@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+xarray
+pygmt
+tomli; python_version < "3.11"
