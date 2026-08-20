@@ -45,4 +45,8 @@ To reset defaults, delete the default.toml file created.
 # PyGMT not working
 - Please follow the official guide at https://www.pygmt.org/latest/ to install PyGMT if you have issues with that.
 
-- Written and debugged with help of Claude Opus 4.6
+
+
+
+
+Written and debugged with help of Claude Opus 4.6
